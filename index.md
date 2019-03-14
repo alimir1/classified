@@ -5,8 +5,8 @@ April 8, 2019 - June 24, 2019 (11 weeks). We meet Mondays at 4pm.
 **Location**:
 San Jose, CA. We only email exact location to admitted applicants.
 
-**Class Size**:
-10 people
+**Group Size**:
+6 people
 
 # Who we are
 Learning ML and AI all by yourself can be frustrating. We formed this study group to help passionate people learn machine learning together. We are a study group. We **do not** offer lectures. Please see **curriculum and structure** below.
