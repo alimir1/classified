@@ -37,6 +37,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 # How to join us
-1. (Sign up here)[https://form.jotform.com/90721195844158].
+1. [Sign up here](https://form.jotform.com/90721195844158).
 2. We'll review your application.
 3. We'll email you if we think you're a good fit.
