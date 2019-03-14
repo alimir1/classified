@@ -39,5 +39,5 @@ We're looking for folks that are self-motivated and interested in learning ML. I
 
 # Admission Process
 1. [Sign up here](https://form.jotform.com/90721195844158).
-2. We'll email you if we think you're a good fit.
-3. We'll schedule a technical phone interview to ensure that you meet admission criteria.
+2. We'll review your application.
+3. You'll receive an email back from us if we think you're a good match.
