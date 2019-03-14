@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
-title: Hello
+title: ML Study Group
+description: This is a dedicated group for people intersted in learning ML.
 github:
   is_project_page: false
