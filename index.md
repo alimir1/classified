@@ -1,4 +1,4 @@
-# Course Information
+# Information
 **Dates**:
 April 8, 2019 - June 24, 2019 (11 weeks). We meet Mondays at 4pm.
 
