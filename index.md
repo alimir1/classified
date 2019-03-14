@@ -28,9 +28,9 @@ Students will be assigned to watch videos from [this course](https://www.courser
 * Week 11: Application Example: Photo OCR
 
 # Instructor
-[Shayan Doroudi](http://www.cs.cmu.edu/~shayand/teaching)
-
 <img src="http://www.cs.cmu.edu/~shayand/ShayanSquare.jpg" width='200'>
+
+[Shayan Doroudi](http://www.cs.cmu.edu/~shayand/teaching)
 
 # Cost
 $1200 per student. All income will be used to facilitate this program (ie room rental, instructor payment, etc). *We do not make any profit*.
