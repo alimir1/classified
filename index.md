@@ -1,44 +1,47 @@
-## Hello World!
+# Dates
+April 8, 2019 - June 24, 2019 (12 weeks)
+We meet every Mondays at 6pm.
 
-[Here's](page1.md) the second page.
+# Location
+San Jose, CA. We only email exact location to admitted students.
 
-You can use the [editor on GitHub](https://github.com/alimir1/classified/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Class Size
+10 people
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Who we are
+Learning ML and AI all by yourself can be frustrating. We formed this study group to help passionate people learn machine learning together. We are a study group - so we do not offer lectures. Instead, we assign video lectures as homeworks and work on projects during class.
 
-### Markdown
+# Curriculum and structure
+Students will be assigned to watch videos from [this course](https://www.coursera.org/learn/machine-learning) (free) at home. During class, we will be working on projects and discuss whatever we 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Week 1: Introduction to ML & Linear Regression with One Variable
+Week 2: Linear Regression with Multiple Variables
+Week 3: Logistic Regression & Regularization
+Week 4: Neural Networks: Representation
+Week 5: Neural Networks: Learning
+Week 6: Applying Machine Learning
+Week 7: Support Vector Machines
+Week 8: Unsupervised Learning & Dimensionality Reduction
+Week 9: Anomaly Detection & Recommender Systems
+Week 10: Large Scale Machine Learning
+Week 11: Application Example: Photo OCR
 
-```markdown
-Syntax highlighted code block
+# Instructor
+[Shayan Doroudi](http://www.cs.cmu.edu/~shayand/teaching)
 
-# Header 1
-## Header 2
-### Header 3
+# Cost
+$1200 per student. All income will be used to facilitate this program (ie room rental, instructor payment, etc). *We do not make any profit*.
 
-- Bulleted
-- List
+# Admission criteria
+We're looking for folks that are self-motivated and interested in learning ML. In addition, candidates must have:
 
-1. Numbered
-2. List
+* Solid programming background
+* Majored in geeky subjects in school (CS, Math, etc.)
 
-**Bold** and _Italic_ and `Code` text
+*Note*
+You are not required to know statistics in advance. We'll learn it along the way.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alimir1/classified/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-# How to join us
+# Admission Process
 1. [Sign up here](https://form.jotform.com/90721195844158).
-2. We'll review your application.
-3. We'll email you if we think you're a good fit.
+2. We'll email you if we think you're a good fit.
+3. We'll schedule a technical phone interview to ensure that you meet admission criteria.
