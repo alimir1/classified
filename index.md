@@ -27,13 +27,8 @@ Students will be assigned to watch videos from [this course](https://www.courser
 * Week 10: Large Scale Machine Learning
 * Week 11: Application Example: Photo OCR
 
-# Instructor
-<img src="http://www.cs.cmu.edu/~shayand/ShayanSquare.jpg" width='200'>
-
-[Shayan Doroudi](http://www.cs.cmu.edu/~shayand/teaching)
-
 # Cost
-$1200 per student. All income will be used to facilitate this program (ie room rental, instructor payment, etc). *We do not make any profit*.
+100% Free.
 
 # Admission criteria
 We're looking for folks that are self-motivated and interested in learning ML. In addition, candidates must have:
