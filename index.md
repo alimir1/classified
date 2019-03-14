@@ -26,6 +26,9 @@ You will be assigned to watch videos from [this course](https://www.coursera.org
 * Week 10: Large Scale Machine Learning
 * Week 11: Application Example: Photo OCR
 
+We're very strict with homework assignments and structure. Anyone that fails to complete tasks will be removed from our group.
+Expect to spend around 5-8 hours a week.
+
 # Cost
 100% Free.
 
