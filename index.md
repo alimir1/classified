@@ -13,7 +13,7 @@ San Jose, CA. We only email exact location to admitted applicants.
 Learning ML and AI all by yourself can be frustrating. We formed this study group to help passionate people learn machine learning together. We are a study group - so we do not offer lectures. Instead, we assign video lectures as homeworks and work on projects during class.
 
 # Curriculum and structure
-You will be assigned to watch videos from [this course](https://www.coursera.org/learn/machine-learning) (free) at home. During class, we will be working on projects and discuss whatever we 
+You will be assigned to watch videos from [this course](https://www.coursera.org/learn/machine-learning) (free) at home. During class, we will be working on projects and engage in discussions.
 
 * Week 1: Introduction to ML & Linear Regression with One Variable
 * Week 2: Linear Regression with Multiple Variables
@@ -36,8 +36,7 @@ We're looking for folks that are self-motivated and interested in learning ML. I
 * Solid programming background
 * Majored in geeky subjects in school (CS, Math, etc.)
 
-*Note*
-You are not required to know statistics in advance. We'll learn it along the way.
+**Note**: You are not required to know statistics in advance. We'll learn it along the way.
 
 # Admission Process
 1. [Sign up here](https://form.jotform.com/90721195844158).
