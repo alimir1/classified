@@ -27,7 +27,7 @@ You will be assigned to watch videos from [this course](https://www.coursera.org
 * Week 11: Application Example: Photo OCR
 
 We're very strict with homework assignments and structure. Anyone that fails to complete tasks will be removed from our group.
-Expect to spend around 5-8 hours a week.
+Expect to spend around 5-8 hours a week for study time.
 
 # Cost
 100% Free.
