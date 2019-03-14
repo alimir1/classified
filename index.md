@@ -15,17 +15,17 @@ Learning ML and AI all by yourself can be frustrating. We formed this study grou
 # Curriculum and structure
 Students will be assigned to watch videos from [this course](https://www.coursera.org/learn/machine-learning) (free) at home. During class, we will be working on projects and discuss whatever we 
 
-- Week 1: Introduction to ML & Linear Regression with One Variable
-- Week 2: Linear Regression with Multiple Variables
-- Week 3: Logistic Regression & Regularization
-Week 4: Neural Networks: Representation
-Week 5: Neural Networks: Learning
-Week 6: Applying Machine Learning
-Week 7: Support Vector Machines
-Week 8: Unsupervised Learning & Dimensionality Reduction
-Week 9: Anomaly Detection & Recommender Systems
-Week 10: Large Scale Machine Learning
-Week 11: Application Example: Photo OCR
+* Week 1: Introduction to ML & Linear Regression with One Variable
+* Week 2: Linear Regression with Multiple Variables
+* Week 3: Logistic Regression & Regularization
+* Week 4: Neural Networks: Representation
+* Week 5: Neural Networks: Learning
+* Week 6: Applying Machine Learning
+* Week 7: Support Vector Machines
+* Week 8: Unsupervised Learning & Dimensionality Reduction
+* Week 9: Anomaly Detection & Recommender Systems
+* Week 10: Large Scale Machine Learning
+* Week 11: Application Example: Photo OCR
 
 # Instructor
 [Shayan Doroudi](http://www.cs.cmu.edu/~shayand/teaching)
