@@ -33,7 +33,7 @@ You will be assigned to watch videos from [this course](https://www.coursera.org
 We're looking for folks that are self-motivated and interested in learning ML. In addition, candidates must have:
 
 * Solid programming background
-* Majored in geeky subjects in school (CS, Math, etc.)
+* Have a degree in geeky fields (CS, Math, etc.) or are self-taught.
 
 **Note**: You are not required to know statistics in advance. We'll learn it along the way.
 
