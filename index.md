@@ -10,7 +10,7 @@ San Jose, CA. We only email exact location to admitted applicants.
 10 people
 
 # Who we are
-Learning ML and AI all by yourself can be frustrating. We formed this study group to help passionate people learn machine learning together. We are a study group - so we do not offer lectures. Instead, we assign video lectures as homeworks and work on projects during class.
+Learning ML and AI all by yourself can be frustrating. We formed this study group to help passionate people learn machine learning together. We are a study group. We **do not** offer lectures. Please see **curriculum and structure** below.
 
 # Curriculum and structure
 You will be assigned to watch videos from [this course](https://www.coursera.org/learn/machine-learning) (free) at home. During class, we will be working on projects and engage in discussions.
