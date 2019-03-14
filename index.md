@@ -1,6 +1,6 @@
 # Course Information
 **Dates**:
-April 8, 2019 - June 24, 2019 (12 weeks). We meet every Mondays 4pm.
+April 8, 2019 - June 24, 2019 (11 weeks). We meet every Mondays 4pm.
 
 **Location**:
 San Jose, CA. We only email exact location to admitted applicants.
