@@ -4,7 +4,7 @@ April 8, 2019 - June 24, 2019 (12 weeks)
 We meet every Mondays at 6pm.
 
 **Location**:
-San Jose, CA. We only email exact location to admitted students.
+San Jose, CA. We only email exact location to admitted applicants.
 
 **Class Size**:
 10 people
@@ -13,7 +13,7 @@ San Jose, CA. We only email exact location to admitted students.
 Learning ML and AI all by yourself can be frustrating. We formed this study group to help passionate people learn machine learning together. We are a study group - so we do not offer lectures. Instead, we assign video lectures as homeworks and work on projects during class.
 
 # Curriculum and structure
-Students will be assigned to watch videos from [this course](https://www.coursera.org/learn/machine-learning) (free) at home. During class, we will be working on projects and discuss whatever we 
+You will be assigned to watch videos from [this course](https://www.coursera.org/learn/machine-learning) (free) at home. During class, we will be working on projects and discuss whatever we 
 
 * Week 1: Introduction to ML & Linear Regression with One Variable
 * Week 2: Linear Regression with Multiple Variables
