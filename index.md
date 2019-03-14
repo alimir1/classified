@@ -1,6 +1,6 @@
 # Information
 **Dates**:
-April 8, 2019 - June 24, 2019 (11 weeks). We meet Mondays at 4pm.
+TBD but most likely in April 2019
 
 **Location**:
 San Jose, CA. We only email exact location to admitted applicants.
