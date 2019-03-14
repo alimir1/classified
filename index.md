@@ -35,7 +35,7 @@ We're looking for folks that are self-motivated and interested in learning ML. I
 * Solid programming background
 * Have a degree in geeky fields (CS, Math, etc.) or are self-taught.
 
-**Note**: You are not required to know statistics in advance. We'll learn it along the way.
+**Note**: Don't worry about not knowing / forgetting advanced math such as statistics and calculus.
 
 # Admission Process
 1. [Sign up here](https://form.jotform.com/90721195844158).
